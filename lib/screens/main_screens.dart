@@ -33,6 +33,7 @@ class _MainScreensState extends State<MainScreens> {
         backgroundColor: Colors.white,
         type: BottomNavigationBarType.fixed,
         currentIndex: _selectedIndex,
+        selectedItemColor: Colors.orange,
         onTap: (index) {
           setState(() {
             _selectedIndex = index;

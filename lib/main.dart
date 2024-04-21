@@ -19,8 +19,8 @@ class CarrotMarketUI extends StatelessWidget {
     return MaterialApp(
       title: 'carrot_market_ui',
       debugShowCheckedModeBanner: false,
-      home: MainScreens(),
       theme: theme(),
+      home: MainScreens(),
     );
   }
 }
