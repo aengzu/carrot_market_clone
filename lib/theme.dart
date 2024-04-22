@@ -13,7 +13,7 @@ TextTheme textTheme() {
     // BodyLarge 텍스트 스타일.
     bodyLarge: GoogleFonts.openSans(fontSize: 16.0, color: Colors.black),
     // BodyMedium 텍스트 스타일.
-    bodyMedium: GoogleFonts.openSans(fontSize: 14.0, color: Colors.black),
+    bodyMedium: GoogleFonts.openSans(fontSize: 14.0, color: Colors.grey),
     // TitleMedium 텍스트 스타일.
     titleMedium: GoogleFonts.openSans(fontSize: 15.0, color: Colors.black),
   );

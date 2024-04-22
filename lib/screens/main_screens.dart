@@ -1,10 +1,11 @@
 import 'package:carrot_market_clone/screens/chatting/chatting_screen.dart';
-import 'package:carrot_market_clone/screens/heightborhood_life/neighborhood_life_screen.dart';
 import 'package:carrot_market_clone/screens/home/home_screen.dart';
 import 'package:carrot_market_clone/screens/my_carrot/my_carrot_screen.dart';
 import 'package:carrot_market_clone/screens/near_me/near_me_screen.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+
+import 'neightborhood_life/neighborhood_life_screen.dart';
 
 class MainScreens extends StatefulWidget {
   const MainScreens({super.key});
