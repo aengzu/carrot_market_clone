@@ -1,3 +1,5 @@
+import 'package:carrot_market_clone/models/icon_menu.dart';
+import 'package:carrot_market_clone/screens/my_carrot/components/card_icon_menu.dart';
 import 'package:carrot_market_clone/screens/my_carrot/components/my_carrot_header.dart';
 import 'package:flutter/material.dart';
 
@@ -18,11 +20,14 @@ class MyCarrotScreen extends StatelessWidget {
             child: Divider(thickness: 0.5, height: 0.5, color: Colors.grey)),
       ),
     body: ListView(
-      children: const [
+      children: [
         MyCarrotHeader(),
+        const SizedBox(height: 8.0),
+        CardIconMenu(iconMenuList: iconMenu1),
+        const SizedBox(height: 8.0),
+        CardIconMenu(iconMenuList: iconMenu2),
         SizedBox(height: 8.0),
-        SizedBox(height: 8.0),
-        SizedBox(height: 8.0),
+        CardIconMenu(iconMenuList: iconMenu3),
 
       ],
     ),
