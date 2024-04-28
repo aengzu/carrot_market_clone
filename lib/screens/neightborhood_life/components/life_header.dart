@@ -30,7 +30,6 @@ class LifeHeader extends StatelessWidget {
             style: textTheme().bodyLarge,
             maxLines: 2,
             overflow: TextOverflow.ellipsis,
-
           ),),
         ],
       ),
