@@ -4,12 +4,12 @@ A new Flutter project.
 
 ### ScreenShot 📸
 
+<div class="row">
 <img src="https://github.com/aengzu/carrot_market_clone/assets/102356873/24ec55a7-31c2-4f1c-af76-65b94addb262">
 <img src="https://github.com/aengzu/carrot_market_clone/assets/102356873/61521820-bb98-43e5-8cee-bd1106511452">
 <img src="https://github.com/aengzu/carrot_market_clone/assets/102356873/ff9f0c7b-87df-4245-814a-ab5d65530840">
 <img src="https://github.com/aengzu/carrot_market_clone/assets/102356873/f7e12097-d66c-4bca-ba76-9ccf65a4a6e3">
-
-
+</div>
 
 
 ## Getting Started
